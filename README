@@ -1,0 +1,13 @@
+Instructions:
+
+
+1. Download and Run DynamoDB locally http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.JsShell.html#GettingStarted.JsShell.Prereqs.Download
+2. Run npm install
+3. Set the following environment variables:
+Linux:
+export AWS_ACCESS_KEY_ID=MyAccessKeyId
+export AWS_SECRET_ACCESS_KEY=MyAccessKeyId
+
+windows:
+set AWS_ACCESS_KEY_ID=MyAccessKeyId
+set AWS_SECRET_ACCESS_KEY=MyAccessKeyId
